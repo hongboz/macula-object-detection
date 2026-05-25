@@ -1,0 +1,11 @@
+super-gradients==3.7.1
+matplotlib
+prettyformatter
+opencv-python
+numpy
+torch
+torchvision
+tqdm
+requests
+jupyter
+notebook
