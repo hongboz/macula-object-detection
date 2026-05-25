@@ -10,7 +10,8 @@ represented as single channel (grayscale) images.
 
 ## Demo
 
-<!-- Paste demo screenshot here in github.com's web editor (pencil icon → paste → commit). -->
+<img width="2093" height="1297" alt="image" src="https://github.com/user-attachments/assets/efe71603-3305-4383-a27a-6e07f6caea2c" />
+
 
 > No live Space is hosted — but the demo is one click to deploy yourself on the free Hugging Face CPU tier.
 
